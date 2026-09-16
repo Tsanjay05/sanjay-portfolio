@@ -31,7 +31,7 @@ function App() {
       {/* Navigation */}
       <header className="navbar">
         <a href="#home" className="logo">
-          ST<span>.</span>
+          SANJAY<span>.</span>T
         </a>
 
         <nav>
@@ -127,7 +127,7 @@ function App() {
               <span className="line-number">03</span>
               <span className="indent">role:</span>{" "}
               <span className="code-string">
-                "Software Engineer"
+                "Software Engineer · Fresher"
               </span>,
 
               <br />
